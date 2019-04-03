@@ -31,6 +31,10 @@
 	- View account -> Wallet: You can buy some CPU/Net/RAM with the EOS you just got from the faucet.
 	
 ### Step 4: Set Up Environment
+> Version: 
+>
+> eosio: 1.7.0, eosio.cdt: 1.6.0
+
 - Install eosio
 	```
 	brew tap eosio/eosio
